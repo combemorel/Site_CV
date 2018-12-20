@@ -1,0 +1,14 @@
+Polices à importer :
+- Oswald
+- Roboto Slab
+
+Codes couleurs :
+- #78bbbb
+- #75b5b5
+- #f7ebd8
+- #565b62
+- #38353e
+- #e2ddcd
+- #e08866
+- #fbfaf6
+- #959ca3
